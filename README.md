@@ -1,4 +1,9 @@
-# Making strawberry ripeness detection GUI
+<div align="center">
+
+  # Making strawberry ripeness detection GUI
+  
+</div> 
+ 
 ## Operating procedures
    - Install designer (Ubuntu Linux) with:
    
